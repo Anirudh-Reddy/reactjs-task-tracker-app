@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Shopping",
+      "day": "!4th April",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Meeting",
+      "day": "1st May",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Cricket Match",
+      "day": "2nd May",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Movie",
+      "day": "1",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
